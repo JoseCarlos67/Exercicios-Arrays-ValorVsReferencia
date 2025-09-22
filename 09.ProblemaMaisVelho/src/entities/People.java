@@ -1,7 +1,5 @@
 package entities;
 
-import java.util.Scanner;
-
 public class People {
   private String name;
   private byte age;
